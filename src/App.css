@@ -1,0 +1,102 @@
+@media screen and (max-width:680px){
+      .card{
+        width: 30rem;
+      }
+      .title{
+        font-size:2rem;
+      }
+      .icon{
+        width: 2.5rem;
+        height:2.5rem;
+      }
+      .top input{
+        padding:10px;
+      }
+      .top button{
+        padding:10px;
+      }
+      .top{
+        margin-top:6%;
+      }
+      .up-date input{
+        font-size:20px;
+        width: 7rem;
+        padding: 5px;
+      }
+      .but-1{
+        font-size:17px ;
+        display: flex;
+        justify-content: center;
+      }
+      .but-2{
+        font-size:13px ;
+        display: flex;
+        justify-content: center;
+      }
+
+      .bottom span{
+        font-size:20px ;
+        width:7rem;
+        padding:5px;
+      }
+      .bottom button{
+        width:2.5rem;
+        height: 2.5rem;
+        display: flex;
+        align-items: center;
+      }
+    
+}
+@media screen and (max-width:490px){
+    .card{
+      width: 18rem;
+      margin: 0;
+      padding: 0;
+    }
+    .title{
+      font-size:1.8rem;
+    }
+    .icon{
+      width: 2.2rem;
+      height:2.2rem;
+    }
+    .top input{
+      width:14rem;  
+      padding:5px;
+    }
+    .top button{
+      padding:6px;
+    }
+    .top{
+      margin-top:5%;
+      margin:20px;
+      padding:10px;
+    }
+    .up-date input{
+      font-size:17px;
+      margin: 5px;
+    }
+    .but-1{
+      font-size:15px ;
+      display: flex;
+      justify-content: center;
+    }
+    .but-2{
+      font-size:10px ;
+      display: flex;
+      justify-content: center;
+    }
+
+    .bottom span{
+      font-size:17px ;
+      width:4.5rem;
+      padding:5px;
+    }
+    .bottom button{
+      width:2rem;
+      height: 2rem;
+      display: flex;
+      align-items: center;
+    }
+  
+}
